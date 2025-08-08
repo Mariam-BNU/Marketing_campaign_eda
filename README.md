@@ -1,6 +1,9 @@
 # Marketing_campaign_eda
 Exploratory Data Analysis of a marketing campaign dataset to uncover customer behavior patterns and actionable insights.
 # 📊 EDA - Marketing Campaign
+# Dataset Source
+Marketing Campaign Dataset - Kaggle
+
 
 # Project Description
 Exploratory Data Analysis of a marketing campaign dataset to understand customer behavior and extract actionable insights for better targeting and offers.
